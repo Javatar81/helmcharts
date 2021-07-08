@@ -1,1 +1,13 @@
-
+apiVersion: v1
+entries:
+  rhsso-generator:
+  - apiVersion: v2
+    appVersion: 7.4.7
+    created: "2021-07-08T15:54:41.102381+02:00"
+    description: A generator that allows to deploy multiple RHSSO instances
+    digest: e70420384307bdaa9725b51f31f1add28258f2ab1937973627abd6761df66ad3
+    name: rhsso-generator
+    urls:
+    - rhsso-generator-0.0.1.tgz
+    version: 0.0.1
+generated: "2021-07-08T15:54:41.098735+02:00"
