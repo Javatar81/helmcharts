@@ -3,11 +3,20 @@ entries:
   rhsso-generator:
   - apiVersion: v2
     appVersion: 7.4.7
-    created: "2021-07-08T15:54:41.102381+02:00"
+    created: "2021-07-13T09:45:57.236425+02:00"
     description: A generator that allows to deploy multiple RHSSO instances
-    digest: e70420384307bdaa9725b51f31f1add28258f2ab1937973627abd6761df66ad3
+    digest: df935ce7e564e77ab041297f65cc507926209bb7bafc38219ca02354446f1e1f
     name: rhsso-generator
     urls:
-    - rhsso-generator-0.0.1.tgz
+    - helmrepo/rhsso-generator-0.0.2.tgz
+    version: 0.0.2
+  - apiVersion: v2
+    appVersion: 7.4.7
+    created: "2021-07-13T09:45:57.235481+02:00"
+    description: A generator that allows to deploy multiple RHSSO instances
+    digest: 3c5563e9c3ff7de47e3eafdb162d7e04ed458ae75433f1c6b990c7527d85b0e0
+    name: rhsso-generator
+    urls:
+    - helmrepo/rhsso-generator-0.0.1.tgz
     version: 0.0.1
-generated: "2021-07-08T15:54:41.098735+02:00"
+generated: "2021-07-13T09:45:57.234669+02:00"
