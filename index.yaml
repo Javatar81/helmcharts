@@ -8,7 +8,7 @@ entries:
     digest: df935ce7e564e77ab041297f65cc507926209bb7bafc38219ca02354446f1e1f
     name: rhsso-generator
     urls:
-    - helmrepo/rhsso-generator-0.0.2.tgz
+    - rhsso-generator-0.0.2.tgz
     version: 0.0.2
   - apiVersion: v2
     appVersion: 7.4.7
@@ -17,6 +17,6 @@ entries:
     digest: 3c5563e9c3ff7de47e3eafdb162d7e04ed458ae75433f1c6b990c7527d85b0e0
     name: rhsso-generator
     urls:
-    - helmrepo/rhsso-generator-0.0.1.tgz
+    - rhsso-generator-0.0.1.tgz
     version: 0.0.1
 generated: "2021-07-13T09:45:57.234669+02:00"
