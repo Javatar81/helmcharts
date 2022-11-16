@@ -3,7 +3,7 @@ entries:
   localnews-helm:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-09-27T22:55:53.401529+02:00"
+    created: "2022-11-16T11:08:35.928503+01:00"
     description: A Helm chart for the localnews App
     digest: f6c8b1fae8d135e03bbe7d7be3b68927baa6b299d92862d03d226fb79d9cd4fc
     name: localnews-helm
@@ -14,7 +14,7 @@ entries:
   rhsso-generator:
   - apiVersion: v2
     appVersion: 7.4.7
-    created: "2022-09-27T22:55:53.404267+02:00"
+    created: "2022-11-16T11:08:35.92957+01:00"
     description: A generator that allows to deploy multiple RHSSO instances
     digest: df935ce7e564e77ab041297f65cc507926209bb7bafc38219ca02354446f1e1f
     name: rhsso-generator
@@ -23,11 +23,11 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     appVersion: 7.4.7
-    created: "2022-09-27T22:55:53.403844+02:00"
+    created: "2022-11-16T11:08:35.929087+01:00"
     description: A generator that allows to deploy multiple RHSSO instances
     digest: c59bbb8c465f00c77ca12c078fa99654579a1bcf6ee940e5416a1e43655c3f8c
     name: rhsso-generator
     urls:
     - rhsso-generator-0.0.1.tgz
     version: 0.0.1
-generated: "2022-09-27T22:55:53.392889+02:00"
+generated: "2022-11-16T11:08:35.927046+01:00"
